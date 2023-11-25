@@ -7,7 +7,7 @@ You can learn testing code using Selenium Java in this repository. You just have
 ```java
 class **Description** {
  String name = "Ketsar Ali"
- String Role = "Full Stack Developer"
+ String role = "Full Stack Developer"
 
  List<String> languages = List.of("Java", "PHP", "JavaScript", "Spring Boot", "React", "C#")
 }
