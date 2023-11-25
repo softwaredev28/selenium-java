@@ -2,8 +2,6 @@
 
 You can learn testing code using Selenium Java in this repository. You just have to choose which branch you want to learn. Keep up the enthusiasm, automation testers and developers
 
-## Mais sobre mim
-
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```java
