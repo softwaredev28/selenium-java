@@ -15,7 +15,7 @@ import org.testng.annotations.Test;
 import java.util.List;
 
 @Slf4j
-public class SecondClassTest {
+public class PreClassTest {
     WebDriver driver;
 
     @BeforeTest
